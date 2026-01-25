@@ -1,0 +1,10 @@
+ARG SPARK_VERSION=3.5.5
+ARG HADOOP_VERSION=3.4.2
+
+FROM apache/spark:${SPARK_VERSION}
+
+COPY ./additional-jars/* /opt/spark/jars/
+
+USER spark
+
+ENTRYPOINT [ "/opt/entrypoint.sh" ]
