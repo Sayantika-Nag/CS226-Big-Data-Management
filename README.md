@@ -11,5 +11,9 @@ https://geohub.lacity.org/datasets/lacounty::median-income-and-ami-census-tract/
 
 
 # Note book order:
-1. crime_data_eda.ipynb
-2. Median_income_data.ipynb
+Codes can be found in CS226_project/codes
+1. Crime_data.ipynb
+2. MedianIncome_data.ipynb
+3. MergedData.ipynb
+4. ML.ipynb
+5. app.py
