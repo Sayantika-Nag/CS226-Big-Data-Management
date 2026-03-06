@@ -15,7 +15,7 @@ I have made this standalone dev-container for this project, which has Pyspark, P
 
 
 # Source Codes:
-Codes can be found in [CS226_project/codes]
+Codes can be found in [codes](CS226_project/codes)
 1. Crime_data.ipynb
 2. MedianIncome_data.ipynb
 3. MergedData.ipynb
@@ -23,4 +23,4 @@ Codes can be found in [CS226_project/codes]
 5. app.py
 
 # Project Report:
-Project report can be viewed [CS226_project/CS226 Project Report.pdf]
+Project report can be viewed [Project Report Download](CS226_project/CS226 Project Report.pdf)
