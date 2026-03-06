@@ -23,4 +23,4 @@ Codes can be found in [codes](CS226_project/codes)
 5. app.py
 
 # Project Report:
-Project report can be viewed [Project Report Download](CS226_project/CS226 Project Report.pdf)
+Project report can be viewed [Project-Report](https://github.com/Sayantika-Nag/CS226-Big-Data-Management/blob/e4067750f9bae293d16b93f4c5a585fd3aee38bc/CS226_project/CS226%20Project%20Report.pdf)
