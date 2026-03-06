@@ -7,6 +7,7 @@ It also creates an WEBUI for the Spatial and Analytic Queries using Streamlit
 **LA Crime Data** 
 https://catalog.data.gov/dataset/crime-data-from-2020-to-present
 
+
 **Median Income Data**
 https://geohub.lacity.org/datasets/lacounty::median-income-and-ami-census-tract/about
 
