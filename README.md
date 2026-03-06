@@ -6,6 +6,7 @@ It also creates an WEBUI for the Spatial and Analytic Queries using Streamlit
 # Data Sets Used
 **LA Crime Data** 
 https://catalog.data.gov/dataset/crime-data-from-2020-to-present
+
 **Median Income Data**
 https://geohub.lacity.org/datasets/lacounty::median-income-and-ami-census-tract/about
 
@@ -15,6 +16,7 @@ I have made this standalone dev-container for this project, which has Pyspark, P
 
 # Source Codes:
 Codes can be found in [codes](CS226_project/codes)
+
 Order of Notebooks--
 1. Crime_data.ipynb
 2. MedianIncome_data.ipynb
